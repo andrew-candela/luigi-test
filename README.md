@@ -1,2 +1,2 @@
 # luigi-test
-Testing Luigi and learning git
+Testing Luigi
