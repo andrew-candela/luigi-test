@@ -32,4 +32,4 @@ class copy_second_file(luigi.Task):
 		return luigi.LocalTarget('./read_from_file2.done')
 
 if __name__ == "__main__":
-	luigi.run()
+    luigi.run()
